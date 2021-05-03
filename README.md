@@ -1,8 +1,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3dsf/ArtLineFFMPEG/blob/main/ArtLineFFMPEG.ipynb)
 
 # ArtLineFFMPEG
-An Implementation of https://github.com/vijishmadhavan/ArtLine
+An ffmpeg-python video implementation of the models by https://github.com/vijishmadhavan
 
+### Check out https://github.com/3dsf/ArtLineFFMPEG/blob/main/videoProcessor.ipynb for a good colab version
 --- 
 
 Allows your to trasform youtube videos to ArtLine using Google Colab or locally.  
